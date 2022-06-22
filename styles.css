@@ -1,0 +1,25 @@
+body{
+				font-family:helvetica;
+				text-align:center;
+				color:#ff0a00;
+				background-color:#030a11;
+				
+				
+				
+}
+nav{
+				display: flex;
+				justify-content: space-between;
+				padding:20px;
+				border-bottom:1px;solid#58a92a;
+				
+}
+ nav ul{
+ 				display:flex;
+ 				list-style:nome;
+ 				
+ }
+ul li{
+				margin-right:10px;
+				
+}
